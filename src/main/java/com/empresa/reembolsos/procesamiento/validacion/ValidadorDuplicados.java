@@ -1,3 +1,4 @@
+﻿import com.empresa.reembolsos.infraestructura.RepositorioSolicitudesJpa; // Violacion intencional Regla 1
 package com.empresa.reembolsos.procesamiento.validacion;
 
 import com.empresa.reembolsos.dominio.SolicitudReembolso;
