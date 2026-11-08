@@ -169,3 +169,5 @@ El workflow `.github/workflows/arquitectura.yml` automatiza la verificación en 
 2. Cache de dependencias Maven.
 3. Ejecución aislada de reglas ArchUnit: `mvn test -Dtest=ReglasArquitectura`.
 4. Ejecución completa del ciclo de construcción: `mvn verify`.
+
+<!-- Analisis de impacto verificado -->
